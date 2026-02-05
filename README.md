@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Thanishka Pamireddy 👋
 
-<!--
-**Thanishka22/Thanishka22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MS in Data Science @ University of Maryland, College Park 
+**Former Tech Analyst@ Bank of America**
 
-Here are some ideas to get you started:
+I am a Data Science graduate student bridging the gap between enterprise-grade software development and advanced analytical research. My background in **Data Integrity** at Bank of America, combined with my research in **Generative AI** and **Big Data**, allows me to build robust, scalable, and insightful data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolbox
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-CC2927?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=flat&logo=mathworks&logoColor=white) |
+| **Big Data & DB** | ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Informatica](https://img.shields.io/badge/Informatica-FF4B33?style=flat&logo=informatica&logoColor=white) ![Unix](https://img.shields.io/badge/UNIX-000000?style=flat&logo=unix&logoColor=white) |
+| **Data Science & AI** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Deepfakes](https://img.shields.io/badge/GenAI-GANs-blueviolet) |
+| **Analytics & BI** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black) ![Metrics](https://img.shields.io/badge/Product-Analytics-green) |
+
+---
+
+### 🔬 Research Experience
+
+**SRM Institute of Science & Technology** *Dec 2023 – May 2024*
+
+- **Deep Learning Development:** Built and trained **CNNs, Vision Transformers, and GANs** for image/video deepfake detection.
+- **Optimization:** Improved performance via transfer learning and large-scale dataset experimentation.
+- **Interdisciplinary:** Merged AI capabilities with UI/UX projects to improve real-world model operability.
+
+---
+### 🚀 Featured Projects
+
+#### 🤖 Combating Deepfake Photos & Videos using GANs
+*SRM IST | May 2024*
+- Developed an application using **Generative Adversarial Networks (GANs)** to detect and mitigate deepfake content.
+- Targeted misinformation and digital deception through advanced computer vision techniques.
+
+#### 📊 Sports Data Visualization & Analytics
+*SRM IST | Dec 2023*
+- Built an end-to-end analytics pipeline using **Python (Web Scraping)**, **SQL**, and **Power BI**.
+- Designed dashboards focused on player performance and fan engagement to drive data-driven sports management.
+
+#### 🏥 Smart Health Recognizer
+*SRM IST | Dec 2022*
+- Implemented **Supervised Learning** models to analyze healthcare indicators and predict anomalies.
+- Focused on early identification of health risks to improve patient outcomes.
+
+---
+
+### 📫 Get in touch
+<a href="https://www.linkedin.com/in/thanishka-pamireddy-b7ba04201/">
+  <img src="https://github.com/[your-username].png" width="100" style="border-radius: 50%;" alt="Profile Picture" />
+</a>
+
+<p align="left">
+<a href="https://linkedin.com/in/[Your-LinkedIn-ID]">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:your.email@umd.edu">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+- **📧 Email:** [pthanish@umd.edu](mailto:your.email@umd.edu)
+
