@@ -47,12 +47,8 @@ I am a Data Science graduate student bridging the gap between enterprise-grade s
 ---
 
 ### 📫 Get in touch
-<a href="https://www.linkedin.com/in/thanishka-pamireddy-b7ba04201/">
-  <img src="https://github.com/[your-username].png" width="100" style="border-radius: 50%;" alt="Profile Picture" />
-</a>
-
 <p align="left">
-<a href="https://linkedin.com/in/[Your-LinkedIn-ID]">
+<a href="https://www.linkedin.com/in/thanishka-pamireddy-b7ba04201/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:your.email@umd.edu">
