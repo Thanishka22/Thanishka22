@@ -56,5 +56,5 @@ I am a Data Science graduate student bridging the gap between enterprise-grade s
 </a>
 </p>
 
-- **📧 Email:** [pthanish@umd.edu](mailto:your.email@umd.edu)
+- **📧 Email:** [pthanish@umd.edu](mailto:pthanish@umd.edu)
 
