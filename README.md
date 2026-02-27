@@ -33,6 +33,17 @@ I am a Data Science graduate student bridging the gap between enterprise-grade s
 ---
 ### 🚀 Featured Projects
 
+### 📦 Retail Demand Forecasting & Inventory Optimizer
+🔗 [Live Demo](https://huggingface.co/spaces/swathi221103/demand_forecasting_inventory_optimization)
+
+Retailers lose millions every year to overstocking and stockouts — both caused by poor demand visibility.
+Built an end-to-end demand forecasting system that predicts daily product demand across 6 stores and 40 SKUs, 
+and converts those forecasts into real-time inventory policies (safety stock & reorder points) 
+through an interactive dashboard.
+
+**Tech Stack:** Python · XGBoost · Streamlit · Plotly · Pandas · Docker · Hugging Face Spaces
+
+
 #### 🤖 Combating Deepfake Photos & Videos using GANs
 *SRM IST | May 2024*
 - Developed an application using **Generative Adversarial Networks (GANs)** to detect and mitigate deepfake content.
