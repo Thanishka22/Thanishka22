@@ -29,6 +29,12 @@ I am a Data Science graduate student bridging the gap between enterprise-grade s
 ---
 ### 🚀 Featured Projects
 
+### 🧬 PrognosAI - Healthcare AI product
+
+👉 **[Try the live app here](https://prognosai-cervical-risk.streamlit.app)**
+
+Developed a machine learning model to predict cervical cancer risk from demographic, lifestyle, and medical history data. Compared XGBoost, Random Forest, Logistic Regression, and SVM — achieving 0.912 ROC-AUC. Built and deployed a live interactive app for clinical risk screening using Python and Streamlit.
+
 ### 📦 Retail Demand Forecasting & Inventory Optimizer
 🔗 [Live Demo](https://huggingface.co/spaces/swathi221103/demand_forecasting_inventory_optimization)
 
