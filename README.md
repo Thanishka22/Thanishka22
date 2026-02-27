@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Thanishka22&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 # Hi, I'm Thanishka Pamireddy 👋
 
 ### MS in Data Science @ University of Maryland, College Park 
