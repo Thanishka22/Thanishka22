@@ -68,7 +68,7 @@ through an interactive dashboard.
 <a href="https://www.linkedin.com/in/thanishka-pamireddy-b7ba04201/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
-<a href="mailto:your.email@umd.edu">
+<a href="mailto:pthanish@umd.edu">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
