@@ -2,6 +2,7 @@
 
 ### MS in Data Science @ University of Maryland, College Park 
 **Former Tech Analyst@ Bank of America**
+🌐 **[Portfolio](https://thanishka22.github.io)**
 
 I am a Data Science graduate student bridging the gap between enterprise-grade software development and advanced analytical research. My background in **Data Integrity** at Bank of America, combined with my research in **Generative AI** and **Big Data**, allows me to build robust, scalable, and insightful data solutions.
 
@@ -31,12 +32,12 @@ I am a Data Science graduate student bridging the gap between enterprise-grade s
 
 ### 🧬 PrognosAI - Healthcare AI product
 
-👉 **[Try the live app here](https://prognosai-cervical-risk.streamlit.app)**
+👉 **[Live Demo](https://prognosai-cervical-risk.streamlit.app)**
 
 Developed a machine learning model to predict cervical cancer risk from demographic, lifestyle, and medical history data. Compared XGBoost, Random Forest, Logistic Regression, and SVM — achieving 0.912 ROC-AUC. Built and deployed a live interactive app for clinical risk screening using Python and Streamlit.
 
 ### 📦 Retail Demand Forecasting & Inventory Optimizer
-🔗 [Live Demo](https://huggingface.co/spaces/swathi221103/demand_forecasting_inventory_optimization)
+🔗 **[Live Demo](https://huggingface.co/spaces/swathi221103/demand_forecasting_inventory_optimization)**
 
 Retailers lose millions every year to overstocking and stockouts — both caused by poor demand visibility.
 Built an end-to-end demand forecasting system that predicts daily product demand across 6 stores and 40 SKUs, 
@@ -47,19 +48,14 @@ through an interactive dashboard.
 
 
 #### 🤖 Combating Deepfake Photos & Videos using GANs
-*SRM IST | May 2024*
+
 - Developed an application using **Generative Adversarial Networks (GANs)** to detect and mitigate deepfake content.
 - Targeted misinformation and digital deception through advanced computer vision techniques.
 
 #### 📊 Sports Data Visualization & Analytics
-*SRM IST | Dec 2023*
+
 - Built an end-to-end analytics pipeline using **Python (Web Scraping)**, **SQL**, and **Power BI**.
 - Designed dashboards focused on player performance and fan engagement to drive data-driven sports management.
-
-#### 🏥 Smart Health Recognizer
-*SRM IST | Dec 2022*
-- Implemented **Supervised Learning** models to analyze healthcare indicators and predict anomalies.
-- Focused on early identification of health risks to improve patient outcomes.
 
 ---
 
