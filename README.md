@@ -1,10 +1,83 @@
 # Hi, I'm Thanishka Pamireddy 👋
 
-### MS in Data Science @ University of Maryland, College Park 
-**Former Tech Analyst@ Bank of America**
+### MS in Data Science @ University of Maryland, College Park
+**Data Science & Engineering Intern @ AARP | Former Tech Analyst @ Bank of America**
 🌐 **[Portfolio](https://thanishka22.github.io)**
 
-I am a Data Science graduate student bridging the gap between enterprise-grade software development and advanced analytical research. My background in **Data Integrity** at Bank of America, combined with my research in **Generative AI** and **Big Data**, allows me to build robust, scalable, and insightful data solutions.
+I am a Data Science graduate student bridging the gap between enterprise-grade software development and advanced analytical research. My background spans **Data Engineering** at AARP, **Data Integrity** at Bank of America, and research in **Generative AI** and **Big Data** — allowing me to build robust, scalable, and insightful data solutions end to end.
+
+---
+
+### 💼 Experience
+
+**AARP** — Data Science & Engineering Intern
+*July 2026 – Present*
+
+- Collect and process advertising data across all AARP marketing platforms including websites and mobile apps using **Databricks** and **PySpark**
+- Build end-to-end data pipelines that consolidate multi-platform ad performance data into unified analytics-ready tables
+- Derive business insights from ad campaign data and present findings through interactive **Tableau** dashboards for stakeholder decision making
+
+**Bank of America** — Technology Analyst
+*Previous Role*
+
+- Worked in **Data Integrity** ensuring accuracy, consistency, and reliability of enterprise-scale financial data
+- Collaborated across engineering and business teams to maintain data quality standards across critical banking systems
+
+---
+
+### 🚀 Featured Projects
+
+### 🧪 OlistXP — End-to-End A/B Experimentation Platform
+🔗 **[GitHub](https://github.com/thanishka22/olist-xp)** &nbsp;|&nbsp; 📊 **[Live Dashboard](https://public.tableau.com/app/profile/tan.p5354/viz/OlistXP_AB_Test_Dashboard/Dashboard2#1)**
+
+Built a production-grade A/B testing platform simulating how companies like Amazon and Netflix run product experiments — using the real Olist Brazilian E-Commerce dataset (100K+ orders).
+
+- Architected a **medallion data lakehouse** (Bronze → Silver → Gold) on **Databricks** using **PySpark** and **Delta Lake**, joining 9 relational tables into a single analytics-ready master table
+- Implemented **hash-based deterministic experiment assignment** ensuring the same user always gets the same group across sessions — the same method used by Meta and Google in production
+- Ran a full **statistical test suite** including two-proportion z-test, Welch's t-test, SRM detection, CUPED variance reduction, and segmentation analysis — detecting a statistically significant **+3.44pp CVR lift** (p=0.0007)
+- Built an interactive **Tableau Public dashboard** displaying KPI cards, conversion funnels, revenue analysis, and segmentation breakdowns
+
+**Tech Stack:** Databricks · PySpark · Delta Lake · Python · scipy · Tableau Public
+
+---
+
+### 🧬 PrognosAI — Healthcare AI Product
+👉 **[Live Demo](https://prognosai-cervical-risk.streamlit.app)**
+
+Developed a machine learning model to predict cervical cancer risk from demographic, lifestyle, and medical history data. Compared XGBoost, Random Forest, Logistic Regression, and SVM — achieving 0.912 ROC-AUC. Built and deployed a live interactive app for clinical risk screening using Python and Streamlit.
+
+---
+
+### 📦 Retail Demand Forecasting & Inventory Optimizer
+🔗 **[Live Demo](https://huggingface.co/spaces/swathi221103/demand_forecasting_inventory_optimization)**
+
+Retailers lose millions every year to overstocking and stockouts — both caused by poor demand visibility. Built an end-to-end demand forecasting system that predicts daily product demand across 6 stores and 40 SKUs, and converts those forecasts into real-time inventory policies through an interactive dashboard.
+
+**Tech Stack:** Python · XGBoost · Streamlit · Plotly · Pandas · Docker · Hugging Face Spaces
+
+---
+
+### 🤖 Combating Deepfake Photos & Videos using GANs
+
+- Developed an application using **Generative Adversarial Networks (GANs)** to detect and mitigate deepfake content
+- Targeted misinformation and digital deception through advanced computer vision techniques
+
+---
+
+### 📊 Sports Data Visualization & Analytics
+
+- Built an end-to-end analytics pipeline using **Python (Web Scraping)**, **SQL**, and **Power BI**
+- Designed dashboards focused on player performance and fan engagement to drive data-driven sports management
+
+---
+
+### 🔬 Research Experience
+
+**SRM Institute of Science & Technology** *Dec 2023 – May 2024*
+
+- **Deep Learning Development:** Built and trained **CNNs, Vision Transformers, and GANs** for image/video deepfake detection
+- **Optimization:** Improved performance via transfer learning and large-scale dataset experimentation
+- **Interdisciplinary:** Merged AI capabilities with UI/UX projects to improve real-world model operability
 
 ---
 
@@ -13,53 +86,16 @@ I am a Data Science graduate student bridging the gap between enterprise-grade s
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-CC2927?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=flat&logo=mathworks&logoColor=white) |
-| **Big Data & DB** | ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Informatica](https://img.shields.io/badge/Informatica-FF4B33?style=flat&logo=informatica&logoColor=white) ![Unix](https://img.shields.io/badge/UNIX-000000?style=flat&logo=unix&logoColor=white) |
+| **Big Data & Cloud** | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-0078D4?style=flat&logo=databricks&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Informatica](https://img.shields.io/badge/Informatica-FF4B33?style=flat&logo=informatica&logoColor=white) ![Unix](https://img.shields.io/badge/UNIX-000000?style=flat&logo=unix&logoColor=white) |
 | **Data Science & AI** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Deepfakes](https://img.shields.io/badge/GenAI-GANs-blueviolet) |
 | **Analytics & BI** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black) ![Metrics](https://img.shields.io/badge/Product-Analytics-green) |
-
----
-
-### 🔬 Research Experience
-
-**SRM Institute of Science & Technology** *Dec 2023 – May 2024*
-
-- **Deep Learning Development:** Built and trained **CNNs, Vision Transformers, and GANs** for image/video deepfake detection.
-- **Optimization:** Improved performance via transfer learning and large-scale dataset experimentation.
-- **Interdisciplinary:** Merged AI capabilities with UI/UX projects to improve real-world model operability.
-
----
-### 🚀 Featured Projects
-
-### 🧬 PrognosAI - Healthcare AI product
-
-👉 **[Live Demo](https://prognosai-cervical-risk.streamlit.app)**
-
-Developed a machine learning model to predict cervical cancer risk from demographic, lifestyle, and medical history data. Compared XGBoost, Random Forest, Logistic Regression, and SVM — achieving 0.912 ROC-AUC. Built and deployed a live interactive app for clinical risk screening using Python and Streamlit.
-
-### 📦 Retail Demand Forecasting & Inventory Optimizer
-🔗 **[Live Demo](https://huggingface.co/spaces/swathi221103/demand_forecasting_inventory_optimization)**
-
-Retailers lose millions every year to overstocking and stockouts — both caused by poor demand visibility.
-Built an end-to-end demand forecasting system that predicts daily product demand across 6 stores and 40 SKUs, 
-and converts those forecasts into real-time inventory policies (safety stock & reorder points) 
-through an interactive dashboard.
-
-**Tech Stack:** Python · XGBoost · Streamlit · Plotly · Pandas · Docker · Hugging Face Spaces
-
-
-#### 🤖 Combating Deepfake Photos & Videos using GANs
-
-- Developed an application using **Generative Adversarial Networks (GANs)** to detect and mitigate deepfake content.
-- Targeted misinformation and digital deception through advanced computer vision techniques.
-
-#### 📊 Sports Data Visualization & Analytics
-
-- Built an end-to-end analytics pipeline using **Python (Web Scraping)**, **SQL**, and **Power BI**.
-- Designed dashboards focused on player performance and fan engagement to drive data-driven sports management.
+| **Experimentation** | ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-Statistical-blue) ![CUPED](https://img.shields.io/badge/CUPED-Variance_Reduction-green) ![SRM](https://img.shields.io/badge/SRM-Detection-orange) |
 
 ---
 
 ### 📫 Get in touch
+
 <p align="left">
 <a href="https://www.linkedin.com/in/thanishka-pamireddy-b7ba04201/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -70,4 +106,3 @@ through an interactive dashboard.
 </p>
 
 - **📧 Email:** [pthanish@umd.edu](mailto:pthanish@umd.edu)
-
